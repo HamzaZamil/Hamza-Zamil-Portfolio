@@ -147,7 +147,7 @@ nav {
 
 .nav-links li a:hover {
   color: #ffdc7f;
-
+  transition: 0.3s;
   border-bottom: 3px solid #ffdc7f;
 
 }
@@ -337,7 +337,7 @@ span {
 .service:hover {
   background-color: teal;
   color: #ffffff;
-  transform: scale(1);
+  transform: scale(1.1);
 }
 
 .service:hover i {
@@ -550,7 +550,7 @@ span {
 }
 
 .highlight-item {
-  height: 180px;
+  height: 230px;
   text-align: center;
   display: flex;
   flex-direction: column;
